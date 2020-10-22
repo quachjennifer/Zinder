@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.jumbotron {
+  background: none
+}
+
+.Button {
+    margin:5px;
+}
+
+.divider{
+  width:30px;
+  height:auto;
+  display:inline-block;
+}
+
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}

@@ -1,0 +1,33 @@
+<html>
+
+	<head>
+		<link rel="stylesheet" href="css/main.css">
+		<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+	</head>
+	
+	<body>
+		<div class="main-container">
+			<form>
+			<div class="formS">
+				<h1>What's Your Sign?</h1>
+			</div>
+			<div class="formS">
+				<input id="your-sign" class="form-input" placeholder="ex: Taurus"></input>
+			</div>
+			<div class="formS">
+				<button type="button" onclick="astSign()">Click me</button>
+			</div>
+			</form>
+
+			<div>
+				<h1 id="yourSign"></h1>
+				<h2 id="birthdayRange"></h2>
+				<h2 id="attributes"></h2>
+				<img id="zodiacImage">
+			</div>
+		</div>
+
+		<script src="js/main.js"></script>
+	</body>
+</html>

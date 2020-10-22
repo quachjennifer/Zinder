@@ -1,0 +1,36 @@
+////////////////////////////////
+          <Form.Group>
+            <Form.Control as="Select Your Zodiac">
+              <option>Capricorn</option>
+              <option>Aquarius</option>
+              <option>Pisces</option>
+              <option>Aries</option>
+              <option>Taurus</option>
+              <option>Gemini</option>
+              <option>Cancer</option>
+              <option>Leo</option>
+              <option>Virgo</option>
+              <option>Libra</option>
+              <option>Scorpio</option>
+              <option>Sagittarius</option>
+            </Form.Control>
+            <br/>
+            <Form.Control as="Select Your Partner's Zodiac">
+              <option>Capricorn</option>
+              <option>Aquarius</option>
+              <option>Pisces</option>
+              <option>Aries</option>
+              <option>Taurus</option>
+              <option>Gemini</option>
+              <option>Cancer</option>
+              <option>Leo</option>
+              <option>Virgo</option>
+              <option>Libra</option>
+              <option>Scorpio</option>
+              <option>Sagittarius</option>
+            </Form.Control>
+          </Form.Group>
+          <input class="btn btn-lg btn-primary btn-block" type="Submit"></input>
+         
+        </div>
+        ///////
